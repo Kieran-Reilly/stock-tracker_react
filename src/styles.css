@@ -49,3 +49,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
+
+  .not-stocked {
+    color: red;
+  }
